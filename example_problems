@@ -67,3 +67,36 @@ movie_rank.insert(1,'Superman')
 movie_rank.remove('Lucky')
 #45
 del movie_rank[2:4]
+#46
+lang1 = ['C', 'C++', 'Java']
+lang2 = ['Python', 'Go', 'C#']
+langs = lang1 + lang2
+#47
+nums = [1,2,3,4,5,6,7]
+max(nums)
+nums = [1,2,3,4,5,6,7]
+min(nums)
+#48
+nums=[1,2,3,4,5]
+sum(nums)
+#49
+cook=['q', 'w', 'c']
+len(cook)
+#50
+nums=[1,2,3,4,5]
+ave = sum(nums)/len(nums)
+ave
+
+
+
+
+
+
+
+
+
+
+
+
+
+

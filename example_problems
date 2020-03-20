@@ -1,0 +1,55 @@
+# 1
+print("Hello World")
+#2
+print("Mary's cosmetics")
+#4
+print('C:\Windows')
+#5
+print("Hello.\nNice\t\tto meet you")
+""" \n : next line, \t : insert space with tab size """
+#6
+print("Today", "Friday")
+Today Friday
+#7
+print("naver;kakao;sk;samsung")
+#8
+print("naver/kakao/sk/samsung")
+#9
+print("first", end=" ");print("second", end=" ")
+#10
+string = "dk2jd92djdewdhah;saihfcv;aeivca;c"
+print(len(string))
+#11
+34
+#12
+s = "hello"
+t = "python"
+print(s+"! "+t)
+#13
+HiHiHi
+#14
+print("-"*80)
+#15
+t1='python'
+t2='java'
+print((t1+" "+t2+" ")*4)
+#16
+LG_stock_number= 10
+LG_stock_price =20000
+LG_total = LG_stock_number * LG_stock_price
+print("Total Amount Money :" + str(LG_total) + " Won")
+#17
+8
+#18
+a="132"
+print(type(a))
+<class 'str'>
+#19
+num_str="720"
+int(num_str)
+#20
+num=100
+str(num)
+#21
+lang="python"
+print(lang[0]+" "+lang[2])

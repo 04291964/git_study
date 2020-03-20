@@ -57,4 +57,13 @@ print(lang[0]+" "+lang[2])
 
 
 
+#41
 movie_rank=['Doctor Strange', 'Split', 'Lucky']
+#42
+movie_rank.append('Batman')
+#43
+movie_rank.insert(1,'Superman')
+#44
+movie_rank.remove('Lucky')
+#45
+del movie_rank[2:4]

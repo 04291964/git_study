@@ -53,3 +53,5 @@ str(num)
 #21
 lang="python"
 print(lang[0]+" "+lang[2])
+
+movie_rank=['Doctor Strange', 'Split', 'Lucky']
